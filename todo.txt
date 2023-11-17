@@ -1,0 +1,9 @@
+render image
+  for loops, we should detect the end/start and make 
+  the pegs blend together like normal adjacent pegs
+
+circle pegs in non-salient space
+  or maybe just empty space?
+
+create one script that takes all parameters and exports a file for an image
+
