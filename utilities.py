@@ -136,7 +136,7 @@ def draw_level(filename, root_peg_width, outline_color=(0,0,0)):
     # fill
     cv2.circle(image, (int(brick[0] * width), int(brick[1] * height)), int(peg_width * 1.5), color, -1) 
     # outline
-    cv2.circle(image, (int(brick[0] * width), int(brick[1] * height)), int(peg_width * 1.5), (0,0,0), 2)
+    cv2.circle(image, (int(brick[0] * width), int(brick[1] * height)), int(peg_width * 1.5), outline_color, 2)
 
 
   # draw image
