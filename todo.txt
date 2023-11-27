@@ -1,9 +1,12 @@
-render image
-  for loops, we should detect the end/start and make 
-  the pegs blend together like normal adjacent pegs
-
-circle pegs in non-salient space
-  or maybe just empty space?
-
-create one script that takes all parameters and exports a file for an image
-
+paper structure
+  intro/background/motivation
+  related work
+    img2lvl paper
+    pcg stuff
+  description of approach/method
+  specific examples
+  discussion/conclusion
+    what worked, what didn't work, what remains to be done
+    limitations, future work
+  references
+    look at zotero
